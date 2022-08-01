@@ -38,4 +38,25 @@ export const skills = [
     "Kotlin",
     "Android Development",
     "Back-end Development"
-]
+];
+
+export const testimonials = [
+    {
+        name: "Carla Melia",
+        company: "ORBYTA Tech",
+        image: "./img/carla.jpg",
+        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?"
+    },
+    {
+        name: "Fabio Angelini",
+        company: "MDOTM",
+        image: "./img/fabio.jpg",
+        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?"
+    },
+    {
+        name: "Gianpaolo Pirastu",
+        company: "Intesa Sanpaolo",
+        image: "./img/gianpaolo.jpg",
+        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?"
+    },
+];
