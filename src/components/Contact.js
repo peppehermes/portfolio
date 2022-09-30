@@ -42,7 +42,7 @@ export default function Contact() {
                         style={{ filter: "opacity(0.85)" }}
                         src="https://www.google.com/maps/embed/v1/place?q=via+arvier+3&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
                     />
-                    <div className="2xl:w-2/3 w-full container bg-gray-900 relative flex flex-wrap py-6 rounded shadow-xl">
+                    <div className="2xl:w-2/3 w-full container bg-gray-900 relative flex flex-wrap py-6 rounded shadow-xl invisible md:visible">
                         <div className="lg:w-1/2 px-6">
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                 ADDRESS

@@ -1,43 +1,45 @@
 export const projects = [
     {
-        title: "React Reserve",
-        subtitle: "MERN Stack",
+        title: "Forum Login Service",
+        subtitle: "FastAPI Stack",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
         image: "./img/project-1.gif",
-        link: "https://reactbootcamp.com",
+        link: "https://github.com/peppehermes/forum-login-service",
     },
     {
-        title: "React Tracks",
-        subtitle: "React and Python",
+        title: "SubitoBot",
+        subtitle: "Python bot",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
         image: "./img/project-2.gif",
-        link: "https://reedbarger.com",
+        link: "https://github.com/peppehermes/subito_bot",
     },
     {
-        title: "DevChat",
-        subtitle: "React and Firebase",
+        title: "SplinterCell",
+        subtitle: "Second-hand market",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
         image: "./img/project-3.gif",
-        link: "https://jsbootcamp.com",
+        link: "https://bitbucket.org/breadsticksengineering/mad-lab2/src/master/",
     },
     {
-        title: "Epic Todo App",
-        subtitle: "React Hooks",
+        title: "FBREF Scraper",
+        subtitle: "Football Database",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
         image: "./img/project-4.gif",
-        link: "https://pythonbootcamp.com",
+        link: "https://github.com/peppehermes/fbref-scraper",
     },
 ];
 
 export const skills = [
     "Python",
     "Kotlin",
-    "Android Development",
-    "Back-end Development"
+    "Android",
+    "Back-end",
+    "React",
+    "React Native"
 ];
 
 export const testimonials = [
