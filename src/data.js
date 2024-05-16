@@ -3,7 +3,7 @@ export const projects = [
         title: "Forum Login Service",
         subtitle: "FastAPI Stack",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "",
         image: "./img/project-1.gif",
         link: "https://github.com/peppehermes/forum-login-service",
     },
@@ -11,7 +11,7 @@ export const projects = [
         title: "SubitoBot",
         subtitle: "Python bot",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "",
         image: "./img/project-2.gif",
         link: "https://github.com/peppehermes/subito_bot",
     },
@@ -19,7 +19,7 @@ export const projects = [
         title: "SplinterCell",
         subtitle: "Second-hand market",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "",
         image: "./img/project-3.gif",
         link: "https://bitbucket.org/breadsticksengineering/mad-lab2/src/master/",
     },
@@ -27,7 +27,7 @@ export const projects = [
         title: "FBREF Scraper",
         subtitle: "Football Database",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "",
         image: "./img/project-4.gif",
         link: "https://github.com/peppehermes/fbref-scraper",
     },
