@@ -35,11 +35,11 @@ export const projects = [
 
 export const skills = [
     "Python",
+    "Java",
     "Kotlin",
-    "Android",
     "Back-end",
     "React",
-    "React Native"
+    "Postgres"
 ];
 
 export const testimonials = [

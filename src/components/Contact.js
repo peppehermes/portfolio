@@ -40,7 +40,7 @@ export default function Contact() {
                         marginHeight={0}
                         marginWidth={0}
                         style={{ filter: "opacity(0.85)" }}
-                        src="https://www.google.com/maps/embed/v1/place?q=via+arvier+3&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+                        src="https://www.google.com/maps/embed/v1/place?q=piazza+leumann+pianezza&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
                     />
                     <div className="2xl:w-2/3 w-full container bg-gray-900 relative flex flex-wrap py-6 rounded shadow-xl invisible md:visible">
                         <div className="lg:w-1/2 px-6">
@@ -48,8 +48,7 @@ export default function Contact() {
                                 ADDRESS
                             </h2>
                             <p className="mt-1">
-                                Via Arvier, 3 <br />
-                                Torino, TO 10141
+                                Pianezza, TO 10044
                             </p>
                         </div>
                         <div className="lg:w-1/2 px-6 pr-6 mt-4 lg:mt-0">
@@ -62,7 +61,7 @@ export default function Contact() {
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                                 PHONE
                             </h2>
-                            <p className="leading-relaxed">320-312-0444</p>
+                            <p className="leading-relaxed">+39 3490714836</p>
                         </div>
                     </div>
                 </div>
