@@ -10,7 +10,7 @@ export default function Testimonials() {
             <div className="container text-center mx-auto px-5 py-10">
                 <UsersIcon className="w-10 inline-block mb-4" />
                 <h1 className="text-white title-font font-medium text-3xl sm:text-4xl mb-12">
-                    Client Testimonials
+                    Job Testimonials
                 </h1>
                 <div className="flex flex-wrap m-4">
                     {testimonials.map((testimonial) => (
