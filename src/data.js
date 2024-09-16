@@ -8,6 +8,14 @@ export const projects = [
         link: "https://github.com/peppehermes/forum-login-service",
     },
     {
+        title: "E-Commerce Payment Service",
+        subtitle: "Spring Boot API",
+        description:
+            "",
+        image: "./img/project-4.gif",
+        link: "https://github.com/peppehermes/cleafy-ecommerce",
+    },
+    {
         title: "SubitoBot",
         subtitle: "Python bot",
         description:
@@ -22,14 +30,6 @@ export const projects = [
             "",
         image: "./img/project-3.gif",
         link: "https://bitbucket.org/breadsticksengineering/mad-lab2/src/master/",
-    },
-    {
-        title: "FBREF Scraper",
-        subtitle: "Football Database",
-        description:
-            "",
-        image: "./img/project-4.gif",
-        link: "https://github.com/peppehermes/fbref-scraper",
     },
 ];
 
